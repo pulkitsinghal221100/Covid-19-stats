@@ -71,8 +71,8 @@ nav ul li:last-child{
 }
 nav ul li a {
     text-decoration: none;
-    font-family:serif;
-    color: #9b1414;
+   font-family:'Times New Roman', Times, serif;
+    color: #be64f1;
     padding: 10px;
     
     
